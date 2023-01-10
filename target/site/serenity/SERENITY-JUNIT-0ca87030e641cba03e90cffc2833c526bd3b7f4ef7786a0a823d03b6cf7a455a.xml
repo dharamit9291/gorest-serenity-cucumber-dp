@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.gorest.crudtests.TagsTest" skipped="0" tests="1" time="2.8" timestamp="2023-01-09T23:49:11.492Z[Europe/London]"><testcase classname="com.gorest.crudtests.TagsTest" name="This test will verify if a status code of 200 is returned for GET request"/></testsuite>
